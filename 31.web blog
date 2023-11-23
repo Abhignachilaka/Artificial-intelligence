@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My WordPress Blog</title>
+    <!-- You can link to your WordPress theme's stylesheet here or add your own styles -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        article {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>My WordPress Blog</h1>
+    </header>
+
+    <article>
+        <h2><a href="#">Sample Blog Post Title</a></h2>
+        <p>Published on <time datetime="2023-11-23">November 23, 2023</time> by <a href="#">Author Name</a></p>
+        <p>This is the content of your blog post. You can use the anchor tag to link to other pages or resources, and the title tag for the title of your post.</p>
+    </article>
+
+    <!-- Add more articles as needed -->
+
+</body>
+</html>
